@@ -1,0 +1,16 @@
+{
+    "id":"309284093",
+    "name":"Jeff",
+    "alias":"@mynameisjeff",
+    "walletAddress":"XDXDzCqrhshMSxb9oW3mRo4MJrQkusV3fGFSTwaiu4wPBqMryA9DYVJCkW9n7twCffG5f5wX2sSkoDXGiZB1HPa7K7f865Kk4LqnrME",
+    "followerCount":532,
+    "followerList":"",
+    "followingCount":73,
+    "followingList":"",
+    "displayImg":"/static/img/author/author-5.jpg",
+    "backgroundImg":"/static/img/author_single/porto-4.jpg",
+    "nftsOnSale":"/testdata/NFTlisting/dummyNFTgroup0.json",
+    "nftsCreated":"/testdata/NFTlisting/dummyNFTgroup1.json",
+    "nftsOwn":"/testdata/NFTlisting/dummyNFTgroup2.json",
+    "nftsLiked":"/testdata/NFTlisting/dummyNFTgroup3.json"
+}

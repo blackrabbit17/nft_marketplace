@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "created_at": "2022-01-17 03:44:25.630537",
+  "created_at_human": "2 weeks ago",
+  "short_desc": "html content",
+  "description": "blog post with html content inside it",
+  "url_slug": "html-content-blog-post",
+  "author": "Donald Trump",
+  "category": "TRUMPISMS",
+  "blog_content_preview": "This is a preview of the article, a small amount of text",
+  "blog_content": "<h1>Im an h1 title</h1>\r\n\r\n<p>This is the end of the world</p>\r\n\r\n<b>TESTING</b>",
+  "post_image": "/static/img/news/news-6.jpg"
+}

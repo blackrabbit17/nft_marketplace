@@ -1,0 +1,41 @@
+[
+    {
+        "id": 1,
+        "created_at": "2022-01-17 03:44:25.630537",
+        "created_at_human": "2 weeks ago",
+        "short_desc": "html content",
+        "description": "blog post with html content inside it",
+        "url_slug": "html-content-blog-post",
+        "author": "Donald Trump",
+        "category": "TRUMPISMS",
+        "blog_content_preview": "This is a preview of the article, a small amount of text",
+        "blog_content": "<h1>Im an h1 title</h1>\r\n\r\n<p>This is the end of the world</p>\r\n\r\n<b>TESTING</b>",
+        "post_image": "/static/img/news/news-6.jpg"
+    },
+    {
+        "id": 2,
+        "created_at": "2022-01-17 03:45:07.813856",
+        "created_at_human": "2 weeks ago",
+        "short_desc": "",
+        "description": "This is another post, but without the short desc field",
+        "url_slug": "no-short-description",
+        "author": "David the Robot",
+        "category": "BLEEP BOOP",
+        "blog_content_preview": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+        "blog_content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
+        "post_image": "/static/img/news/news-2.jpg"
+    },
+    {
+        "id": 3,
+        "created_at": "2022-01-17 03:45:39.134411",
+        "created_at_human": "2 weeks ago",
+        "short_desc": "The next big trend in crypto",
+        "description": "The next big trend in crypto is gonna be facebook for cats. Cats in the metaverse.",
+        "url_slug": "cats-in-the-metaverse",
+        "author": "That lady from Titanic",
+        "category": "ICEBERG",
+        "blog_content_preview": "Cat was here, Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer",
+        "blog_content": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "post_image": "/static/img/news/news-1.jpg"
+    }
+]
